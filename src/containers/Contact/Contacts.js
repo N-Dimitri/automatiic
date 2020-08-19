@@ -26,8 +26,8 @@ class Contacts extends Component {
                         <div className="col-lg-3">
                             <div className="contact_info_item">
                                 <h6 className="f_p f_size_20 t_color3 f_500 mb_20">Informations</h6>
-                                <p className="f_400 f_size_15"><span className="f_400 t_color3">mobile:</span> <a href="tel:0667043046">06 67 04 30 46</a></p>
-                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Email:</span> <a href="mailto:contact@automatiic.io">contact@automatiic.io</a></p>
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Mobile:</span> <a href="tel:0667043046">06 67 04 30 46</a></p>
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Email:</span> <a href="mailto:contact@automatiic.io">contact@automatiic.tech</a></p>
                             </div>
                         </div>
                         <div className="contact_form col-lg-9">

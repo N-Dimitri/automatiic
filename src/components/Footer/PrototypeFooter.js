@@ -9,7 +9,7 @@ class PrototypeFooter extends Component {
             <footer className="footer">
                 <ul class="nav justify-content-center">
                     <li class="nav-item">
-                        <a class="nav-link" style={{color: 'white'}}>© 2019 - 2020 Automatiic.io</a>
+                        <a class="nav-link" style={{color: 'white'}}>© 2019 - 2020 Automatiic.tech</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"><Link to="/mentions-legales">Mentions légales</Link></a>

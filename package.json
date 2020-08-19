@@ -13,10 +13,12 @@
     "@testing-library/user-event": "^7.1.2",
     "apollo-boost": "^0.4.7",
     "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
     "graphql": "^14.5.8",
     "jquery": "^3.4.1",
     "moment": "^2.24.0",
     "node-sass": "^4.14.1",
+    "path": "^0.12.7",
     "popper.js": "^1.16.0",
     "react": "^16.12.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
@@ -36,6 +38,7 @@
   },
   "scripts": {
     "develop": "react-scripts start",
+    "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

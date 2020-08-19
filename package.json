@@ -2,6 +2,7 @@
   "name": "react-blog",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://daan2175.odns.fr" , 
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
     "@fortawesome/fontawesome-free": "^5.14.0",

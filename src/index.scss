@@ -1,11 +1,15 @@
 a {
   text-decoration: none;
 }
+blockquote p {
+  color: white;
+}
 body {
   font-family: "Poppins", serif;
   font-size: 16px;
   position: relative;
   overflow-x: hidden;
+  background: #fafbff;
   color: #677294;
 }
 .navBar {
@@ -19,6 +23,9 @@ body {
   padding-top: 225px;
   padding-bottom: 150px;
   position: relative;
+}
+.blog_content {
+  padding: 20px!important;
 }
 .landingTitle {
 	font-family: 'Poppins', sans-serif;

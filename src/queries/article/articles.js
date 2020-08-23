@@ -6,6 +6,7 @@ const ARTICLES_QUERY = gql`
       id
       title
       content
+      short_description
       category {
         id
         name

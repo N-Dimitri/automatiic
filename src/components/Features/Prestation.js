@@ -4,7 +4,7 @@ import Reveal from 'react-reveal';
 class Prestation extends Component {
     render(){
         return(
-            <section className="startup_fuatures_area sec_pad">
+            <section className="startup_fuatures_area sec_pad" style={{background: 'white'}} id="prestation">
                 <div className="container">
                     <div className="sec_title mb_70 wow fadeInUp" data-wow-delay="0.4s">
                     <Reveal effect="fadeInLeft"><h1 className="titleService text-center">Nos prestations</h1>

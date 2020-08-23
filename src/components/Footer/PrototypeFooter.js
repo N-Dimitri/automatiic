@@ -14,9 +14,6 @@ class PrototypeFooter extends Component {
                     <li class="nav-item">
                         <a class="nav-link" href="#"><Link to="/mentions-legales">Mentions légales</Link></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><Link to="/mentions-legales">Politique de confidentialité</Link></a>
-                    </li>
                 </ul>
             </footer>
         )

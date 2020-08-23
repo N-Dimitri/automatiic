@@ -26,7 +26,7 @@ const GridItem = ({ article }) => {
                             line={2}
                             element="span"
                             truncateText="…"
-                            text={article.content}
+                            text={article.short_description}
                         />
                     </p>
                     <div className="post-info-bottom">
